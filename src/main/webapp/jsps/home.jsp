@@ -12,7 +12,7 @@
 <h1 align="center">NewEra</h1>
 <h2 align="center"> Welcome to NewEra. 
 	NewEra is a an online training platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance. </h2>
+	We offer interview preparations and job assitance that produce top Engineers. </h2>
 <hr>
 <div style="text-align: center;">
 	<span>

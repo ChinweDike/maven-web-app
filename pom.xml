@@ -133,6 +133,8 @@
 	    </snapshotRepository>
 	    
 	</distributionManagement>
+
+http://3.80.226.7:8081/repository/walmart-snapshot/
 	
 	<build>
 		<finalName>maven-web-app</finalName>
